@@ -43,8 +43,3 @@ module "vpc" {
 
   tags = var.vpc_tags
 }
-
-
-# OTher links
-#https://learn.hashicorp.com/terraform/gcp/variables
-#https://www.terraform.io/docs/providers/google/r/network_management_connectivity_test_resource.html
